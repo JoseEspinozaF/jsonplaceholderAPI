@@ -1,0 +1,11 @@
+table thead{
+    background-color: blue;
+    color: white;
+
+}
+tbody{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: solid 1px gray;
+    font-size: 100%;
+}
